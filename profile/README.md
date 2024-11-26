@@ -29,7 +29,7 @@
 ---
 
 ## 시스템 아키텍처
-<img src="../../img/img.png">
+<img src="img.png">
 
 ---
 
