@@ -34,7 +34,7 @@
 ---
 
 ## 시스템 아키텍처
-<img src="img.png" width = 80%>
+<img src="./profile/img.png" width = 80%>
 
 ---
 
